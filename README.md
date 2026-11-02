@@ -20,8 +20,9 @@ Many people spend way too much time trying to find a decent movie to watch inste
 ## Tech Stack
 
 - **Language:** Java
-- **Imports:** 'java.io.File', 'java.io.FileNotFoundException'
-- **Version Control:** Git
+- **Packages:** 'java.io.File', 'java.io.FileNotFoundException'
+- **Storing Data:** CSV file, and GitHub
+- **Pulling Data:** Not using an external source for data; instead, comparing user preferences to the local movie.txt file.
 
 ## Setup
 

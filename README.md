@@ -29,8 +29,7 @@ Follow these steps to get the Movie Recommender engine running on your computer 
 
 ```bash
 git clone (https://github.com/oliviamathew/CS193-Final-Project.git)
-cd your-project
-./install.sh   # or whatever
+cd CS193-Final-Project
 ```
 
 ## Usage

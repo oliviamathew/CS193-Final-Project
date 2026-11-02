@@ -34,9 +34,7 @@ cd your-project
 
 ## Usage
 
-How to actually run the thing, with examples.
-
-## Example 1: Mid English Horror
+## Example: Mid English Horror
 
 ```bash
 java MovieEngine 110 Dance English

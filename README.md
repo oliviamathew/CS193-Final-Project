@@ -4,6 +4,8 @@ Movie Recommendation Program that takes in User Preferences, compares them to a 
 ## The Problem
 
 Many people spend way too much time trying to find a decent movie to watch instead of just enjoying a movie. This Java program hopes to tackle this problem by taking in user preferences as inputs, comparing them to highly rated movies in its list, and recommending a list of good movies that first match the user's preferences. These preferences include: Genre, Length, and Language. 
+* [View my Eisenhower Matrix Planning PDF](OliviaMathew.Eisenhower%20Matrix%20(1).pdf)
+
 
 ## How It Works
 

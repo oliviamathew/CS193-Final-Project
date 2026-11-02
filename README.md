@@ -34,10 +34,10 @@ cd CS193-Final-Project
 
 ## Usage
 
-## Example: Mid English Horror
+## Example: User wants: medium-length English Horror Movie
 
 ```bash
-java MovieEngine 110 Dance English
+java MovieEngine 120 Horror English
 ```
 
 **Output**

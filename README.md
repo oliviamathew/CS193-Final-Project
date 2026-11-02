@@ -10,7 +10,7 @@ Many people spend way too much time trying to find a decent movie to watch inste
 A paragraph or a few bullets explaining what the software does at a
 high level. If you have a diagram, embed it here:
 
-![System diagram]()
+![System diagram](https://github.com/oliviamathew/CS193-Final-Project/blob/main/SystemDiagram.png)
 
 ## Tech Stack
 

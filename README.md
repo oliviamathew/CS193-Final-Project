@@ -7,11 +7,11 @@ Many people spend way too much time trying to find a decent movie to watch inste
 
 ## How It Works
 
-* **Reads Inputs** Reads the user's desired movie lengths, genre, and language directly from the terminal
-* **Reads the List** Opens the "movie.txt" file and checks each movie sequentially. 
-* **Checks against the Preferences** Compares current movie details to the user's preferences.
-* **Print or move on** If the movie fits all 3 criteria, the movie is printed. If the movie does not fit all three, it prints nothing.
-* **Repeat** Moves to the next movie line and does the same thing; stops when it reaches the end of the file. 
+* **Reads Inputs: ** Reads the user's desired movie lengths, genre, and language directly from the terminal
+* **Reads the List: ** Opens the "movie.txt" file and checks each movie sequentially. 
+* **Checks against the Preferences: ** Compares current movie details to the user's preferences.
+* **Print or move on: ** If the movie fits all 3 criteria, the movie is printed. If the movie does not fit all three, it prints nothing.
+* **Repeat: ** Moves to the next movie line and does the same thing; stops when it reaches the end of the file. 
 
 ![System diagram](https://github.com/oliviamathew/CS193-Final-Project/blob/main/SystemDiagram.png)
 

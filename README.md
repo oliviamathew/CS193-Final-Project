@@ -1,22 +1,25 @@
 # CS193-Final-Project
-Movie Recommendation Program that takes in User Preferences compares it to list of movies and recommends movies that fit user inputs. 
+Movie Recommendation Program that takes in User Preferences, compares them to a list of movies, and recommends movies that fit the user's inputs. 
 
 ## The Problem
 
-Many people spend way too much time trying to find a decent movie to watch instead of just enjoying a movie. This java program hopes to tackle this problem by taking in user preferences as inputs compare them to highly rated movies in it's list and recommend a list of good movies that first the user's preferences regarding. These preferences include: Genre, Length, and Language. 
+Many people spend way too much time trying to find a decent movie to watch instead of just enjoying a movie. This Java program hopes to tackle this problem by taking in user preferences as inputs, comparing them to highly rated movies in its list, and recommending a list of good movies that first match the user's preferences. These preferences include: Genre, Length, and Language. 
 
 ## How It Works
 
-A paragraph or a few bullets explaining what the software does at a
-high level. If you have a diagram, embed it here:
+**Reads Inputs** Reads the user's desired movie lengths, genre, and language directly from the terminal
+**Reads the List** Opens the "movie.txt" file and checks each movie sequentially. 
+**Checks against the Preferences** Compares current movie details to the user's preferences.
+**Print or move on** If the movie fits all 3 criteria, the movie is printed. If the movie does not fit all three, it prints nothing.
+**Repeat** Moves to the next movie line and does the same thing; stops when it reaches the end of the file. 
 
 ![System diagram](https://github.com/oliviamathew/CS193-Final-Project/blob/main/SystemDiagram.png)
 
 ## Tech Stack
 
 - **Language:** Java
-- **Libraries:** 
-- **External tools:** cron, curl, APIs, etc.
+- **Imports:** 'java.io.File', 'java.io.FileNotFoundException'
+- **Version Control:** Git
 
 ## Setup
 
@@ -33,6 +36,14 @@ cd your-project
 
 How to actually run the thing, with examples.
 
+## Example 1: Mid English Horror
+
 ```bash
-./backup.sh ~/Documents
+java MovieEngine 110 Dance English
+```
+
+**Output**
+```text
+Showing matching movies:
+Obsession - 1 hr 49 mins | English | Horror
 ```

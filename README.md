@@ -13,7 +13,7 @@ Many people spend way too much time trying to find a decent movie to watch inste
 * **Print or move on:** If the movie fits all 3 criteria, the movie is printed. If the movie does not fit all three, it prints nothing.
 * **Repeat:** Moves to the next movie line and does the same thing; stops when it reaches the end of the file. 
 
-![System diagram](https://github.com/oliviamathew/CS193-Final-Project/blob/main/SystemDiagram.png)
+![System diagram](SystemDiagram.png)
 
 ## Tech Stack
 
@@ -23,11 +23,10 @@ Many people spend way too much time trying to find a decent movie to watch inste
 
 ## Setup
 
-Step-by-step: how does someone who just cloned your repo get it
-running?
+Follow these steps to get the Movie Recommender engine running on your computer locally. 
 
 ```bash
-git clone https://github.com/you/your-project
+git clone (https://github.com/oliviamathew/CS193-Final-Project.git)
 cd your-project
 ./install.sh   # or whatever
 ```

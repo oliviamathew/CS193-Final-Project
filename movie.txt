@@ -1,0 +1,50 @@
+Obsession,109,English,Horror
+The Conjuring,112,English,Horror
+Get Out,104,English,Horror
+Hereditary,127,English,Horror
+A Quiet Place,90,English,Horror
+Scream,111,English,Horror
+Halloween,91,English,Horror
+Train to Busan,118,Korean,Horror
+Parasite,132,Korean,Thriller
+Oldboy,120,Korean,Thriller
+Gone Girl,149,English,Thriller
+Se7en,127,English,Thriller
+Shutter Island,138,English,Thriller
+Searching,102,English,Thriller
+Inception,148,English,Sci-Fi
+Interstellar,169,English,Sci-Fi
+The Matrix,136,English,Sci-Fi
+Arrival,116,English,Sci-Fi
+Ex Machina,108,English,Sci-Fi
+Back to the Future,116,English,Sci-Fi
+Spirited Away,125,Japanese,Animation
+Your Name,106,Japanese,Animation
+Princess Mononoke,134,Japanese,Animation
+Coco,105,English,Animation
+Toy Story,81,English,Animation
+Up,96,English,Animation
+Inside Out,95,English,Animation
+Finding Nemo,100,English,Animation
+The Grand Budapest Hotel,99,English,Comedy
+Superbad,113,English,Comedy
+Bridesmaids,125,English,Comedy
+Step Brothers,98,English,Comedy
+Palm Springs,90,English,Comedy
+3 Idiots,170,Hindi,Comedy
+The Shawshank Redemption,142,English,Drama
+Forrest Gump,142,English,Drama
+Whiplash,106,English,Drama
+Moonlight,111,English,Drama
+Dangal,161,Hindi,Drama
+Life Is Beautiful,116,Italian,Drama
+Roma,135,Spanish,Drama
+The Dark Knight,152,English,Action
+Mad Max Fury Road,120,English,Action
+John Wick,101,English,Action
+Top Gun Maverick,130,English,Action
+RRR,187,Telugu,Action
+La La Land,128,English,Romance
+Pride and Prejudice,129,English,Romance
+Amelie,122,French,Romance
+Pans Labyrinth,118,Spanish,Fantasy

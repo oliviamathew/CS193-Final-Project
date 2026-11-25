@@ -4,10 +4,13 @@ import java.util.Scanner;
 
 public class MovieEngine {
 	
-	public static void main (String[] args) {
-		Scanner console = new Scanner(System.in);
+	// originally thought of using scanner think readln might be easier, need to figure it out.
+
+	
+	//public static void main (String[] args) {
+	//	Scanner console = new Scanner(System.in);
 		//code for later
-	}
+	//}
 
 	//First make an AskLength Method
 

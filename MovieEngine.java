@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class MovieEngine {
 	
-	// originally thought of using scanner think readln might be easier, need to figure it out.
+	// scanner best for looking through movie.txt. 
 
 	
 	//public static void main (String[] args) {
@@ -38,5 +38,34 @@ public class MovieEngine {
 			IO.println("Please Enter A Valid Response!")
 		}
 	}
+
+	private static int matchingMovies (int length, String genre, String language) {
+		int matched = 0;
+			Scanner in = new Scanner(newFile("movie.txt");
+			while(in.hasNextLine()) {
+				String line = in.nextLine().trim();
+				if (line.isEmpty()) {
+					continue;
+				}
+				String attr = line.split(",");
+
+				String title =  attr[0];
+				int movieLength = attr[1];
+				String movieLang = attr[2];
+				String movieGenre = attr[3]
+
+				if (movieLength <= length && movieLang.equalsIgnoreCase(language) && movieGenre.equalsIgnoreCase(genre)){
+					if (matched == 0) {
+						IO.println("Showing Generated Movies: ");
+					}
+					IO.println(title + ": " + (movieLength / 60) + "hrs " + 
+							   		(movieLength % 60) + "mins | " + movieLang + " | " + movieGenre);
+					matched++;
+				}
+			}
+			in.close();
+			return matched;
+	}
+	
 }
 
